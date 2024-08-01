@@ -5,7 +5,8 @@ local hwids = {
 "7d5aa5f7-0a4c-4f09-8175-e4904b3a4f90", -- legit @goesboro .
 "565b4733-a557-49fe-b030-02a3bd97138d", -- me on mobile
 "6e4a0474-24a6-47d2-89bd-6b901c6498b3", -- otaviokkkj @rimururealhelpme
-"d7ed7569-8d37-4ce5-bfa9-91b599d12a88" -- me on emulator
+"d7ed7569-8d37-4ce5-bfa9-91b599d12a88", -- me on emulator
+"b219660e-4953-4e55-a913-e5a670a265da" --xtc @symineedmoney
 }
 
 return hwids
