@@ -6,7 +6,8 @@ local hwids = {
 "565b4733-a557-49fe-b030-02a3bd97138d", -- me on mobile
 "6e4a0474-24a6-47d2-89bd-6b901c6498b3", -- otaviokkkj @rimururealhelpme
 "d7ed7569-8d37-4ce5-bfa9-91b599d12a88", -- me on emulator
-"b219660e-4953-4e55-a913-e5a670a265da" --xtc @symineedmoney
+"b219660e-4953-4e55-a913-e5a670a265da", --xtc @symineedmoney
+"35BC0424-434C-4D92-960D-C4B7D56B4781" -- Def @defaulitosss
 }
 
 return hwids
