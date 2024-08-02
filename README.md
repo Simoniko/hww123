@@ -9,7 +9,8 @@ local hwids = {
 "b219660e-4953-4e55-a913-e5a670a265da", --xtc @symineedmoney
 "35BC0424-434C-4D92-960D-C4B7D56B4781", -- Def @defaulitosss
 "42ed7ab2-a9d4-4ff7-8a73-e97a81fa9725", --otaviokkkj @rimururealhelpme 2nd hwid 
-"9EC58C2C-58E1-4559-B682-477ADF357D2F" -- mattodan @mattodan
+"9EC58C2C-58E1-4559-B682-477ADF357D2F", -- mattodan @mattodan
+"FD197223-90AA-4E7B-9992-7DBD47C86A18" -- c3yd_ @c3yd_ ADVERTISE COPY : )
 }
 
 return hwids
