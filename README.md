@@ -12,7 +12,8 @@ local hwids = {
 "3514207F-BEE5-4048-AF93-4D53C6FE8485", -- Zone @junioroce 1136923797195325490 (dev)
 "e8c7b2ab-9057-4334-9183-11266b3339f4", -- arch
 "03B3909D-934D-455B-B545-4F72AD9EC66A", -- 4mair @_mair_ 867328454616678421
-"e27ccf15-5dd5-490a-a9b6-ae49af05efaf" -- 『yäng』@believeyang 691469425794220044
+"e27ccf15-5dd5-490a-a9b6-ae49af05efaf", -- 『yäng』@believeyang 691469425794220044
+"3FAF0B64-4831-4BD9-A1CC-2D52C7DECF53" -- L @vanishd. 944237299745583104
 }
 
 return hwids
