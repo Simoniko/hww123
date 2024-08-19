@@ -5,7 +5,7 @@ local hwids = {
 "6C05599B-A562-45F6-9503-EE0244273636", -- Gabriel @sucukmittoast 756220140173131916
 "A347F276-4E68-4336-8FB1-5065CBC6CC33", --kebab @kebabnl 983034566304493589.
 "7d5aa5f7-0a4c-4f09-8175-e4904b3a4f90", -- legit @goesboro 445931342912421898.
-"6e4a0474-24a6-47d2-89bd-6b901c6498b3", -- otaviokkkj @rimururealhelpme 1106398046037745714.
+"11e53636-d946-4b40-adf4-8166a7a34055", -- r1muru @rimurunaoquerclt 1241165386288730185. -- ACC CHANGED
 "b219660e-4953-4e55-a913-e5a670a265da", -- xtc @symineedmoney 1253016773817794701
 "35BC0424-434C-4D92-960D-C4B7D56B4781", -- Def @defaulitosss 1250173319580221510
 "42ed7ab2-a9d4-4ff7-8a73-e97a81fa9725", -- otaviokkkj @rimururealhelpme 2nd hwid 
