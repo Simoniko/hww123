@@ -16,7 +16,8 @@ local hwids = {
 "03B3909D-934D-455B-B545-4F72AD9EC66A", -- 4mair @_mair_ 867328454616678421
 "e27ccf15-5dd5-490a-a9b6-ae49af05efaf", -- 『yäng』@believeyang 691469425794220044
 "3FAF0B64-4831-4BD9-A1CC-2D52C7DECF53", -- L @vanishd. 944237299745583104
-"735b78fe-d6b6-43c8-afaa-69dab4131abd|1724245695" -- Richard @doziemrix 1182307448208490496
+"735b78fe-d6b6-43c8-afaa-69dab4131abd|1724245695", -- Richard @doziemrix 1182307448208490496
+"3de2b5dd-8b3a-4035-9387-4eb43b088eea" -- Lonner_ @.lonner_ 868739075924967444
 }
 
 return hwids
