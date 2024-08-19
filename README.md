@@ -4,7 +4,6 @@ local hwids = {
 "6FA7453D-6644-417C-8D1C-D5CBF6F3FF21|1724599702", --scyfe @scyfe.c 1033708223158571019
 "6C05599B-A562-45F6-9503-EE0244273636", -- Gabriel @sucukmittoast 756220140173131916
 "A347F276-4E68-4336-8FB1-5065CBC6CC33", --kebab @kebabnl 983034566304493589.
-"not yet", --Gabriel @sucukmittoast - in 2 weeks hwid
 "7d5aa5f7-0a4c-4f09-8175-e4904b3a4f90", -- legit @goesboro 445931342912421898.
 "6e4a0474-24a6-47d2-89bd-6b901c6498b3", -- otaviokkkj @rimururealhelpme 1106398046037745714.
 "b219660e-4953-4e55-a913-e5a670a265da", --xtc @symineedmoney 1253016773817794701
